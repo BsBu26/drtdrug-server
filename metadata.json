@@ -1,0 +1,6 @@
+{
+  "name": "QR CLS Y TẾ MỘC HÓA",
+  "description": "Hệ thống tra cứu dịch vụ cận lâm sàng và chi phí y tế - Trung tâm Y tế Mộc Hóa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
